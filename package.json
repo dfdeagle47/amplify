@@ -1,8 +1,11 @@
 {
-  "author": "appendTo (http://appendto.com/)",
+  "author": {
+    "name": "appendTo",
+    "url": "http://appendto.com/"
+  },
   "name": "amplify",
   "description": "AmplifyJS is a set of components for data management and application communication.",
-  "main": "lib/amplify.js",
+  "main": "index.js",
   "version": "1.1.2",
   "homepage": "http://amplifyjs.com/",
   "repository": {
@@ -33,5 +36,12 @@
     "underscore": "latest",
     "async": "latest"
   },
-  "optionalDependencies": {}
+  "optionalDependencies": {},
+  "readme": "# AmplifyJS, A JavaScript Component Library\r\n\r\nAmplifyJS is a set of components for data management and application communication.\r\n\r\nFor more information or a distribution with minified files see the [AmplifyJS site](http://amplifyjs.com).\r\n\r\n## Documentation\r\n\r\nDocumentation is available online in the [AmplifyJS API site](http://amplifyjs.com/api/request/) and it is also included in each  of the component directories. Documentation includes both usage information and examples.\r\n\r\n## TestSwarm\r\n\r\nTestswarm is available at [http://swarm.amplifyjs.com](http://swarm.amplifyjs.com)\r\n\r\n## License\r\nCopyright (c) 2011 appendTo LLC.\r\n\r\nDual licensed under the MIT or GPL licenses.\r\n\r\n[http://appendto.com/open-source-licenses](http://appendto.com/open-source-licenses)\r\n",
+  "readmeFilename": "readme.md",
+  "gitHead": "fecfa226da6be464c91a116f97fbae5014fbbd08",
+  "_id": "amplify@1.1.2",
+  "_shasum": "779361f8b6ef9c48b99a0cca06b571edce374927",
+  "_from": "..\\..\\..\\..\\..\\..\\..\\Prog\\cygwin64\\tmp\\npm-5160-5e48318e\\git-cache-af4f0d040e9f\\fecfa226da6be464c91a116f97fbae5014fbbd08",
+  "_resolved": "git+https://github.com/dfdeagle47/amplify#fecfa226da6be464c91a116f97fbae5014fbbd08"
 }
